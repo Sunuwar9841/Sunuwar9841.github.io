@@ -1,0 +1,27 @@
+/* Header */
+.header div{
+  text-align: center;
+}
+
+.header div a{
+  color: blue;
+}
+
+.paragraphs{
+  border: 3px solid red;
+}
+
+.p-hotpink{
+  color: hotpink;
+  font-family: Arial;
+}
+
+.p-pink{
+  color: pink;
+  font-family: Courier;
+}
+
+.p-lightpink{
+  color: lightpink;
+  font-family: Corsivia;
+}

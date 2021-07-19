@@ -1,0 +1,39 @@
+.container{
+  height: 500px;
+  width: 100%;
+}
+
+.container div{
+  float: left;
+  width: 31%;
+  height: 70%;
+}
+
+.container div img{
+  width: 95%;
+  height: 95%;
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 2px solid black;
+}
+
+
+.box2{
+  border: 1px solid blue;
+  padding: 10px;
+  overflow: auto;
+}
+
+.box2 h2{
+  text-align: center;
+}
+
+.box2 a{
+  display: block;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px 0;
+  text-align: center;
+}
